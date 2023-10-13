@@ -2,7 +2,7 @@ package tarefa_controledefluxos;
 
 import java.util.Scanner;
 
-public class  NotasDoAluno {
+public class  CalculoMedia {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
