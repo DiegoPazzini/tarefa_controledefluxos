@@ -5,7 +5,7 @@ Escola: Ebac
 
 Módulo 10
 
-Programa criado para ler 4 notas e calcular a média. Condicionias If, Else If e Else utilizadas para informar se o aluno foi "reprovado", "recuperação" ou "aprovado. 
+Programa criado para ler 4 notas e calcular a média. Condicionias If, Else If e Else utilizadas para informar se o aluno foi ou está: "reprovado", "recuperação" ou "aprovado. 
 Médias para os resultados: 
 5< reprovado
 5>= recuperação
